@@ -22,6 +22,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_nl:</string>
+          <string>:nl:</string>
         </array>
       </dict>
       <key>ballot_x.png</key>
@@ -31,6 +32,7 @@
         <key>Equivalents</key>
         <array>
           <string>:ballot_x:</string>
+          <string>:ballot_script_x:</string>
         </array>
       </dict>
       <key>rabbit.png</key>
@@ -49,6 +51,7 @@
         <key>Equivalents</key>
         <array>
           <string>:pennant_white:</string>
+          <string>:white_pennant:</string>
         </array>
       </dict>
       <key>tram.png</key>
@@ -67,6 +70,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ng:</string>
+          <string>:nigeria:</string>
         </array>
       </dict>
       <key>thought_balloon.png</key>
@@ -85,6 +89,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_na:</string>
+          <string>:na:</string>
         </array>
       </dict>
       <key>flag_nc.png</key>
@@ -94,6 +99,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_nc:</string>
+          <string>:nc:</string>
         </array>
       </dict>
       <key>alien.png</key>
@@ -130,6 +136,7 @@
         <key>Equivalents</key>
         <array>
           <string>:kiss_ww:</string>
+          <string>:couplekiss_ww:</string>
         </array>
       </dict>
       <key>flag_nz.png</key>
@@ -139,6 +146,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_nz:</string>
+          <string>:nz:</string>
         </array>
       </dict>
       <key>smoking.png</key>
@@ -193,6 +201,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_nr:</string>
+          <string>:nr:</string>
         </array>
       </dict>
       <key>flag_ni.png</key>
@@ -202,6 +211,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ni:</string>
+          <string>:ni:</string>
         </array>
       </dict>
       <key>maple_leaf.png</key>
@@ -238,6 +248,7 @@
         <key>Equivalents</key>
         <array>
           <string>:e-mail:</string>
+          <string>:email:</string>
         </array>
       </dict>
       <key>tv.png</key>
@@ -310,6 +321,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ne:</string>
+          <string>:ne:</string>
         </array>
       </dict>
       <key>melon.png</key>
@@ -355,6 +367,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_dk:</string>
+          <string>:dk:</string>
         </array>
       </dict>
       <key>persevere.png</key>
@@ -400,6 +413,7 @@
         <key>Equivalents</key>
         <array>
           <string>:homes:</string>
+          <string>:house_buildings:</string>
         </array>
       </dict>
       <key>eight_pointed_black_star.png</key>
@@ -463,6 +477,7 @@
         <key>Equivalents</key>
         <array>
           <string>:contruction_site:</string>
+          <string>:building_construction:</string>
         </array>
       </dict>
       <key>speech_balloon.png</key>
@@ -517,6 +532,7 @@
         <key>Equivalents</key>
         <array>
           <string>:tickets:</string>
+          <string>:admission_tickets:</string>
         </array>
       </dict>
       <key>four.png</key>
@@ -553,6 +569,7 @@
         <key>Equivalents</key>
         <array>
           <string>:house_abandoned:</string>
+          <string>:derelict_house_building:</string>
         </array>
       </dict>
       <key>mouse_one.png</key>
@@ -562,6 +579,7 @@
         <key>Equivalents</key>
         <array>
           <string>:mouse_one:</string>
+          <string>:one_button_mouse:</string>
         </array>
       </dict>
       <key>notes.png</key>
@@ -607,6 +625,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_af:</string>
+          <string>:af:</string>
         </array>
       </dict>
       <key>no_good.png</key>
@@ -634,6 +653,7 @@
         <key>Equivalents</key>
         <array>
           <string>:crayon:</string>
+          <string>:lower_left_crayon:</string>
         </array>
       </dict>
       <key>notebook_with_decorative_cover.png</key>
@@ -661,6 +681,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sk:</string>
+          <string>:sk:</string>
         </array>
       </dict>
       <key>ringing_bell.png</key>
@@ -679,6 +700,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gm:</string>
+          <string>:gm:</string>
         </array>
       </dict>
       <key>flag_so.png</key>
@@ -688,6 +710,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_so:</string>
+          <string>:so:</string>
         </array>
       </dict>
       <key>flag_sn.png</key>
@@ -697,6 +720,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sn:</string>
+          <string>:sn:</string>
         </array>
       </dict>
       <key>flag_sm.png</key>
@@ -706,6 +730,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sm:</string>
+          <string>:sm:</string>
         </array>
       </dict>
       <key>flag_cz.png</key>
@@ -715,6 +740,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cz:</string>
+          <string>:cz:</string>
         </array>
       </dict>
       <key>flag_sc.png</key>
@@ -724,6 +750,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sc:</string>
+          <string>:sc:</string>
         </array>
       </dict>
       <key>tea.png</key>
@@ -742,6 +769,8 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sa:</string>
+          <string>:saudiarabia:</string>
+          <string>:saudi:</string>
         </array>
       </dict>
       <key>flag_sg.png</key>
@@ -751,6 +780,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sg:</string>
+          <string>:sg:</string>
         </array>
       </dict>
       <key>children_crossing.png</key>
@@ -769,6 +799,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_se:</string>
+          <string>:se:</string>
         </array>
       </dict>
       <key>arrow_left.png</key>
@@ -787,6 +818,7 @@
         <key>Equivalents</key>
         <array>
           <string>:finger_pointing_left:</string>
+          <string>:sideways_white_left_pointing_index:</string>
         </array>
       </dict>
       <key>flag_sz.png</key>
@@ -796,6 +828,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sz:</string>
+          <string>:sz:</string>
         </array>
       </dict>
       <key>zero.png</key>
@@ -841,6 +874,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mm:</string>
+          <string>:mm:</string>
         </array>
       </dict>
       <key>levitate.png</key>
@@ -850,6 +884,7 @@
         <key>Equivalents</key>
         <array>
           <string>:levitate:</string>
+          <string>:man_in_business_suit_levitating:</string>
         </array>
       </dict>
       <key>cactus.png</key>
@@ -895,6 +930,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_st:</string>
+          <string>:st:</string>
         </array>
       </dict>
       <key>cinema.png</key>
@@ -931,6 +967,7 @@
         <key>Equivalents</key>
         <array>
           <string>:clock:</string>
+          <string>:mantlepiece_clock:</string>
         </array>
       </dict>
       <key>bullhorn.png</key>
@@ -949,6 +986,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_np:</string>
+          <string>:np:</string>
         </array>
       </dict>
       <key>purple_heart.png</key>
@@ -976,6 +1014,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ci:</string>
+          <string>:ci:</string>
         </array>
       </dict>
       <key>file_folder.png</key>
@@ -994,6 +1033,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sv:</string>
+          <string>:sv:</string>
         </array>
       </dict>
       <key>clipboard.png</key>
@@ -1021,6 +1061,7 @@
         <key>Equivalents</key>
         <array>
           <string>:finger_pointing_down2:</string>
+          <string>:sideways_white_down_pointing_index:</string>
         </array>
       </dict>
       <key>flag_tg.png</key>
@@ -1030,6 +1071,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tg:</string>
+          <string>:tg:</string>
         </array>
       </dict>
       <key>new.png</key>
@@ -1057,6 +1099,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cn:</string>
+          <string>:cn:</string>
         </array>
       </dict>
       <key>1234.png</key>
@@ -1093,6 +1136,7 @@
         <key>Equivalents</key>
         <array>
           <string>:folder_open:</string>
+          <string>:open_folder:</string>
         </array>
       </dict>
       <key>flag_cm.png</key>
@@ -1102,6 +1146,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cm:</string>
+          <string>:cm:</string>
         </array>
       </dict>
       <key>notepad_empty.png</key>
@@ -1111,6 +1156,7 @@
         <key>Equivalents</key>
         <array>
           <string>:notepad_empty:</string>
+          <string>:empty_note_pad:</string>
         </array>
       </dict>
       <key>herb.png</key>
@@ -1147,6 +1193,7 @@
         <key>Equivalents</key>
         <array>
           <string>:note_empty:</string>
+          <string>:empty_note_page:</string>
         </array>
       </dict>
       <key>punch.png</key>
@@ -1237,6 +1284,7 @@
         <key>Equivalents</key>
         <array>
           <string>:thumbsup:</string>
+          <string>:+1:</string>
         </array>
       </dict>
       <key>family_wwgb.png</key>
@@ -1264,6 +1312,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_es:</string>
+          <string>:es:</string>
         </array>
       </dict>
       <key>arrow_lower_left.png</key>
@@ -1354,6 +1403,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ec:</string>
+          <string>:ec:</string>
         </array>
       </dict>
       <key>flag_mz.png</key>
@@ -1363,6 +1413,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mz:</string>
+          <string>:mz:</string>
         </array>
       </dict>
       <key>dragon_face.png</key>
@@ -1390,6 +1441,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_eg:</string>
+          <string>:eg:</string>
         </array>
       </dict>
       <key>waxing_gibbous_moon.png</key>
@@ -1417,6 +1469,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cloud_snow:</string>
+          <string>:cloud_with_snow:</string>
         </array>
       </dict>
       <key>massage.png</key>
@@ -1435,6 +1488,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_jp:</string>
+          <string>:jp:</string>
         </array>
       </dict>
       <key>keyboard_mouse.png</key>
@@ -1444,6 +1498,7 @@
         <key>Equivalents</key>
         <array>
           <string>:keyboard_mouse:</string>
+          <string>:keyboard_and_mouse:</string>
         </array>
       </dict>
       <key>grapes.png</key>
@@ -1471,6 +1526,7 @@
         <key>Equivalents</key>
         <array>
           <string>:spy:</string>
+          <string>:sleuth_or_spy:</string>
         </array>
       </dict>
       <key>sleeping_accommodation.png</key>
@@ -1516,6 +1572,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cf:</string>
+          <string>:cf:</string>
         </array>
       </dict>
       <key>flag_tt.png</key>
@@ -1525,6 +1582,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tt:</string>
+          <string>:tt:</string>
         </array>
       </dict>
       <key>mountain_snow.png</key>
@@ -1534,6 +1592,7 @@
         <key>Equivalents</key>
         <array>
           <string>:mountain_snow:</string>
+          <string>:snow_capped_mountain:</string>
         </array>
       </dict>
       <key>pound.png</key>
@@ -1552,6 +1611,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tz:</string>
+          <string>:tz:</string>
         </array>
       </dict>
       <key>mahjong.png</key>
@@ -1570,6 +1630,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_dj:</string>
+          <string>:dj:</string>
         </array>
       </dict>
       <key>tired_face.png</key>
@@ -1588,6 +1649,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cy:</string>
+          <string>:cy:</string>
         </array>
       </dict>
       <key>cloud.png</key>
@@ -1606,6 +1668,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_jo:</string>
+          <string>:jo:</string>
         </array>
       </dict>
       <key>baby.png</key>
@@ -1624,6 +1687,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_al:</string>
+          <string>:al:</string>
         </array>
       </dict>
       <key>eye.png</key>
@@ -1642,6 +1706,7 @@
         <key>Equivalents</key>
         <array>
           <string>:projector:</string>
+          <string>:film_projector:</string>
         </array>
       </dict>
       <key>ballot_box.png</key>
@@ -1651,6 +1716,7 @@
         <key>Equivalents</key>
         <array>
           <string>:ballot_box:</string>
+          <string>:ballot_box_with_ballot:</string>
         </array>
       </dict>
       <key>sake.png</key>
@@ -1741,6 +1807,7 @@
         <key>Equivalents</key>
         <array>
           <string>:key2:</string>
+          <string>:old_key:</string>
         </array>
       </dict>
       <key>ear_of_rice.png</key>
@@ -1768,6 +1835,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_fj:</string>
+          <string>:fj:</string>
         </array>
       </dict>
       <key>mouse2.png</key>
@@ -1813,6 +1881,7 @@
         <key>Equivalents</key>
         <array>
           <string>:slight_smile:</string>
+          <string>:slightly_smiling_face:</string>
         </array>
       </dict>
       <key>baby_symbol.png</key>
@@ -1831,6 +1900,7 @@
         <key>Equivalents</key>
         <array>
           <string>:telephone_black:</string>
+          <string>:black_touchtone_telephone:</string>
         </array>
       </dict>
       <key>mountain_bicyclist.png</key>
@@ -1849,6 +1919,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_rs:</string>
+          <string>:rs:</string>
         </array>
       </dict>
       <key>black_large_square.png</key>
@@ -1867,6 +1938,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cross_heavy:</string>
+          <string>:heavy_latin_cross:</string>
         </array>
       </dict>
       <key>tangerine.png</key>
@@ -1993,6 +2065,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cloud_tornado:</string>
+          <string>:cloud_with_tornado:</string>
         </array>
       </dict>
       <key>notepad_spiral.png</key>
@@ -2002,6 +2075,7 @@
         <key>Equivalents</key>
         <array>
           <string>:notepad_spiral:</string>
+          <string>:spiral_note_pad:</string>
         </array>
       </dict>
       <key>jack_o_lantern.png</key>
@@ -2020,6 +2094,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_fr:</string>
+          <string>:fr:</string>
         </array>
       </dict>
       <key>izakaya_lantern.png</key>
@@ -2056,6 +2131,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_hk:</string>
+          <string>:hk:</string>
         </array>
       </dict>
       <key>cat.png</key>
@@ -2227,6 +2303,7 @@
         <key>Equivalents</key>
         <array>
           <string>:dividers:</string>
+          <string>:card_index_dividers:</string>
         </array>
       </dict>
       <key>dolphin.png</key>
@@ -2254,6 +2331,7 @@
         <key>Equivalents</key>
         <array>
           <string>:document_text:</string>
+          <string>:document_with_text:</string>
         </array>
       </dict>
       <key>night_with_stars.png</key>
@@ -2272,6 +2350,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cruise_ship:</string>
+          <string>:passenger_ship:</string>
         </array>
       </dict>
       <key>pig2.png</key>
@@ -2479,6 +2558,7 @@
         <key>Equivalents</key>
         <array>
           <string>:beach:</string>
+          <string>:beach_with_umbrella:</string>
         </array>
       </dict>
       <key>goat.png</key>
@@ -2515,6 +2595,7 @@
         <key>Equivalents</key>
         <array>
           <string>:map:</string>
+          <string>:world_map:</string>
         </array>
       </dict>
       <key>flag_ag.png</key>
@@ -2524,6 +2605,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ag:</string>
+          <string>:ag:</string>
         </array>
       </dict>
       <key>trident.png</key>
@@ -2560,6 +2642,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_xk:</string>
+          <string>:xk:</string>
         </array>
       </dict>
       <key>flag_am.png</key>
@@ -2569,6 +2652,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_am:</string>
+          <string>:am:</string>
         </array>
       </dict>
       <key>watch.png</key>
@@ -2587,6 +2671,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ao:</string>
+          <string>:ao:</string>
         </array>
       </dict>
       <key>flag_ai.png</key>
@@ -2596,6 +2681,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ai:</string>
+          <string>:ai:</string>
         </array>
       </dict>
       <key>customs.png</key>
@@ -2623,6 +2709,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_at:</string>
+          <string>:at:</string>
         </array>
       </dict>
       <key>sun_with_face.png</key>
@@ -2704,6 +2791,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kp:</string>
+          <string>:kp:</string>
         </array>
       </dict>
       <key>dove.png</key>
@@ -2713,6 +2801,7 @@
         <key>Equivalents</key>
         <array>
           <string>:dove:</string>
+          <string>:dove_of_peace:</string>
         </array>
       </dict>
       <key>man.png</key>
@@ -2740,6 +2829,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pa:</string>
+          <string>:pa:</string>
         </array>
       </dict>
       <key>fire_engine_oncoming.png</key>
@@ -2749,6 +2839,7 @@
         <key>Equivalents</key>
         <array>
           <string>:fire_engine_oncoming:</string>
+          <string>:oncoming_fire_engine:</string>
         </array>
       </dict>
       <key>flag_mt.png</key>
@@ -2758,6 +2849,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mt:</string>
+          <string>:mt:</string>
         </array>
       </dict>
       <key>curry.png</key>
@@ -2785,6 +2877,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_li:</string>
+          <string>:li:</string>
         </array>
       </dict>
       <key>flag_white.png</key>
@@ -2794,6 +2887,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_white:</string>
+          <string>:waving_white_flag:</string>
         </array>
       </dict>
       <key>dragon.png</key>
@@ -2821,6 +2915,7 @@
         <key>Equivalents</key>
         <array>
           <string>:speaking_head:</string>
+          <string>:speaking_head_in_silhouette:</string>
         </array>
       </dict>
       <key>truck.png</key>
@@ -2893,6 +2988,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tr:</string>
+          <string>:tr:</string>
         </array>
       </dict>
       <key>shield.png</key>
@@ -2983,6 +3079,7 @@
         <key>Equivalents</key>
         <array>
           <string>:motorcycle:</string>
+          <string>:racing_motorcycle:</string>
         </array>
       </dict>
       <key>keyboard.png</key>
@@ -2992,6 +3089,7 @@
         <key>Equivalents</key>
         <array>
           <string>:keyboard:</string>
+          <string>:wired_keyboard:</string>
         </array>
       </dict>
       <key>japan.png</key>
@@ -3028,6 +3126,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_no:</string>
+          <string>:no:</string>
         </array>
       </dict>
       <key>flag_hn.png</key>
@@ -3037,6 +3136,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_hn:</string>
+          <string>:hn:</string>
         </array>
       </dict>
       <key>rosette.png</key>
@@ -3064,6 +3164,7 @@
         <key>Equivalents</key>
         <array>
           <string>:envelope_flying:</string>
+          <string>:flying_envelope:</string>
         </array>
       </dict>
       <key>dark_sunglasses.png</key>
@@ -3109,6 +3210,7 @@
         <key>Equivalents</key>
         <array>
           <string>:hand_splayed_reverse:</string>
+          <string>:reversed_raised_hand_with_fingers_splayed:</string>
         </array>
       </dict>
       <key>paperclip.png</key>
@@ -3154,6 +3256,7 @@
         <key>Equivalents</key>
         <array>
           <string>:floppy_black:</string>
+          <string>:black_hard_shell_floppy_disk:</string>
         </array>
       </dict>
       <key>dolls.png</key>
@@ -3181,6 +3284,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ve:</string>
+          <string>:ve:</string>
         </array>
       </dict>
       <key>monkey_face.png</key>
@@ -3208,6 +3312,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_va:</string>
+          <string>:va:</string>
         </array>
       </dict>
       <key>ballot_box_with_check.png</key>
@@ -3235,6 +3340,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_vn:</string>
+          <string>:vn:</string>
         </array>
       </dict>
       <key>rewind.png</key>
@@ -3253,6 +3359,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_vi:</string>
+          <string>:vi:</string>
         </array>
       </dict>
       <key>open_mouth.png</key>
@@ -3352,6 +3459,7 @@
         <key>Equivalents</key>
         <array>
           <string>:frame_photo:</string>
+          <string>:frame_with_picture:</string>
         </array>
       </dict>
       <key>rice_ball.png</key>
@@ -3379,6 +3487,7 @@
         <key>Equivalents</key>
         <array>
           <string>:keyboard_with_jacks:</string>
+          <string>:musical_keyboard_with_jacks:</string>
         </array>
       </dict>
       <key>meat_on_bone.png</key>
@@ -3406,6 +3515,7 @@
         <key>Equivalents</key>
         <array>
           <string>:optical_disk:</string>
+          <string>:optical_disc_icon:</string>
         </array>
       </dict>
       <key>sos.png</key>
@@ -3460,6 +3570,7 @@
         <key>Equivalents</key>
         <array>
           <string>:thumbsdown:</string>
+          <string>:-1:</string>
         </array>
       </dict>
       <key>older_woman.png</key>
@@ -3469,6 +3580,7 @@
         <key>Equivalents</key>
         <array>
           <string>:older_woman:</string>
+          <string>:grandma:</string>
         </array>
       </dict>
       <key>envelope_stamped.png</key>
@@ -3478,6 +3590,7 @@
         <key>Equivalents</key>
         <array>
           <string>:envelope_stamped:</string>
+          <string>:stamped_envelope:</string>
         </array>
       </dict>
       <key>smiley_cat.png</key>
@@ -3505,6 +3618,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ae:</string>
+          <string>:ae:</string>
         </array>
       </dict>
       <key>no_smoking.png</key>
@@ -3541,6 +3655,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ad:</string>
+          <string>:ad:</string>
         </array>
       </dict>
       <key>postal_horn.png</key>
@@ -3595,6 +3710,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kz:</string>
+          <string>:kz:</string>
         </array>
       </dict>
       <key>u7121.png</key>
@@ -3640,6 +3756,7 @@
         <key>Equivalents</key>
         <array>
           <string>:lifter:</string>
+          <string>:weight_lifter:</string>
         </array>
       </dict>
       <key>bullhorn_waves.png</key>
@@ -3649,6 +3766,7 @@
         <key>Equivalents</key>
         <array>
           <string>:bullhorn_waves:</string>
+          <string>:bullhorn_with_sound_waves:</string>
         </array>
       </dict>
       <key>fist.png</key>
@@ -3685,6 +3803,7 @@
         <key>Equivalents</key>
         <array>
           <string>:mood_lightning:</string>
+          <string>:lightning_mood:</string>
         </array>
       </dict>
       <key>girl.png</key>
@@ -3766,6 +3885,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ky:</string>
+          <string>:ky:</string>
         </array>
       </dict>
       <key>factory.png</key>
@@ -3811,6 +3931,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_dm:</string>
+          <string>:dm:</string>
         </array>
       </dict>
       <key>fountain.png</key>
@@ -3838,6 +3959,7 @@
         <key>Equivalents</key>
         <array>
           <string>:finger_pointing_right:</string>
+          <string>:sideways_white_right_pointing_index:</string>
         </array>
       </dict>
       <key>turned_ok_hand.png</key>
@@ -3847,6 +3969,7 @@
         <key>Equivalents</key>
         <array>
           <string>:turned_ok_hand:</string>
+          <string>:turned_ok_hand_sign:</string>
         </array>
       </dict>
       <key>cyclone.png</key>
@@ -3865,6 +3988,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_de:</string>
+          <string>:de:</string>
         </array>
       </dict>
       <key>blue_book.png</key>
@@ -3892,6 +4016,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gb:</string>
+          <string>:gb:</string>
         </array>
       </dict>
       <key>flag_mh.png</key>
@@ -3901,6 +4026,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mh:</string>
+          <string>:mh:</string>
         </array>
       </dict>
       <key>flower_playing_cards.png</key>
@@ -3928,6 +4054,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ml:</string>
+          <string>:ml:</string>
         </array>
       </dict>
       <key>flag_mo.png</key>
@@ -3937,6 +4064,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mo:</string>
+          <string>:mo:</string>
         </array>
       </dict>
       <key>flag_by.png</key>
@@ -3946,6 +4074,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_by:</string>
+          <string>:by:</string>
         </array>
       </dict>
       <key>flag_ma.png</key>
@@ -3955,6 +4084,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ma:</string>
+          <string>:ma:</string>
         </array>
       </dict>
       <key>hatching_chick.png</key>
@@ -3973,6 +4103,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mc:</string>
+          <string>:mc:</string>
         </array>
       </dict>
       <key>flag_me.png</key>
@@ -3982,6 +4113,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_me:</string>
+          <string>:me:</string>
         </array>
       </dict>
       <key>flag_md.png</key>
@@ -3991,6 +4123,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_md:</string>
+          <string>:md:</string>
         </array>
       </dict>
       <key>bouquet.png</key>
@@ -4018,6 +4151,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_my:</string>
+          <string>:my:</string>
         </array>
       </dict>
       <key>flag_mx.png</key>
@@ -4027,6 +4161,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mx:</string>
+          <string>:mx:</string>
         </array>
       </dict>
       <key>grimacing.png</key>
@@ -4081,6 +4216,7 @@
         <key>Equivalents</key>
         <array>
           <string>:bouquet2:</string>
+          <string>:bouquet_of_flowers:</string>
         </array>
       </dict>
       <key>smirk_cat.png</key>
@@ -4099,6 +4235,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ms:</string>
+          <string>:ms:</string>
         </array>
       </dict>
       <key>flag_mr.png</key>
@@ -4108,6 +4245,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mr:</string>
+          <string>:mr:</string>
         </array>
       </dict>
       <key>flag_ph.png</key>
@@ -4117,6 +4255,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ph:</string>
+          <string>:ph:</string>
         </array>
       </dict>
       <key>princess.png</key>
@@ -4135,6 +4274,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mw:</string>
+          <string>:mw:</string>
         </array>
       </dict>
       <key>flag_mv.png</key>
@@ -4144,6 +4284,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mv:</string>
+          <string>:mv:</string>
         </array>
       </dict>
       <key>high_heel.png</key>
@@ -4162,6 +4303,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_au:</string>
+          <string>:au:</string>
         </array>
       </dict>
       <key>flag_gl.png</key>
@@ -4171,6 +4313,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gl:</string>
+          <string>:gl:</string>
         </array>
       </dict>
       <key>black_medium_small_square.png</key>
@@ -4270,6 +4413,7 @@
         <key>Equivalents</key>
         <array>
           <string>:pennant_black:</string>
+          <string>:black_pennant:</string>
         </array>
       </dict>
       <key>heartbeat.png</key>
@@ -4297,6 +4441,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_br:</string>
+          <string>:br:</string>
         </array>
       </dict>
       <key>telephone_white.png</key>
@@ -4306,6 +4451,7 @@
         <key>Equivalents</key>
         <array>
           <string>:telephone_white:</string>
+          <string>:white_touchtone_telephone:</string>
         </array>
       </dict>
       <key>flag_gr.png</key>
@@ -4315,6 +4461,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gr:</string>
+          <string>:gr:</string>
         </array>
       </dict>
       <key>ballot_box_check.png</key>
@@ -4324,6 +4471,7 @@
         <key>Equivalents</key>
         <array>
           <string>:ballot_box_check:</string>
+          <string>:ballot_box_with_bold_check:</string>
         </array>
       </dict>
       <key>note.png</key>
@@ -4333,6 +4481,7 @@
         <key>Equivalents</key>
         <array>
           <string>:note:</string>
+          <string>:note_page:</string>
         </array>
       </dict>
       <key>ophiuchus.png</key>
@@ -4360,6 +4509,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bt:</string>
+          <string>:bt:</string>
         </array>
       </dict>
       <key>flag_ar.png</key>
@@ -4369,6 +4519,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ar:</string>
+          <string>:ar:</string>
         </array>
       </dict>
       <key>heavy_multiplication_x.png</key>
@@ -4423,6 +4574,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ch:</string>
+          <string>:ch:</string>
         </array>
       </dict>
       <key>cow2.png</key>
@@ -4459,6 +4611,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bw:</string>
+          <string>:bw:</string>
         </array>
       </dict>
       <key>arrow_up_down.png</key>
@@ -4495,6 +4648,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ls:</string>
+          <string>:ls:</string>
         </array>
       </dict>
       <key>sheep.png</key>
@@ -4531,6 +4685,7 @@
         <key>Equivalents</key>
         <array>
           <string>:thumbs_up_reverse:</string>
+          <string>:reversed_thumbs_up_sign:</string>
         </array>
       </dict>
       <key>atm.png</key>
@@ -4639,6 +4794,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sb:</string>
+          <string>:sb:</string>
         </array>
       </dict>
       <key>clock730.png</key>
@@ -4675,6 +4831,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bm:</string>
+          <string>:bm:</string>
         </array>
       </dict>
       <key>nail_care.png</key>
@@ -4711,6 +4868,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bn:</string>
+          <string>:bn:</string>
         </array>
       </dict>
       <key>flag_ro.png</key>
@@ -4720,6 +4878,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ro:</string>
+          <string>:ro:</string>
         </array>
       </dict>
       <key>relieved.png</key>
@@ -4774,6 +4933,7 @@
         <key>Equivalents</key>
         <array>
           <string>:railway_track:</string>
+          <string>:railroad_track:</string>
         </array>
       </dict>
       <key>nut_and_bolt.png</key>
@@ -4801,6 +4961,7 @@
         <key>Equivalents</key>
         <array>
           <string>:jet_up:</string>
+          <string>:up_pointing_military_airplane:</string>
         </array>
       </dict>
       <key>seat.png</key>
@@ -4828,6 +4989,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ru:</string>
+          <string>:ru:</string>
         </array>
       </dict>
       <key>panda_face.png</key>
@@ -4846,6 +5008,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mg:</string>
+          <string>:mg:</string>
         </array>
       </dict>
       <key>middle_finger.png</key>
@@ -4855,6 +5018,7 @@
         <key>Equivalents</key>
         <array>
           <string>:middle_finger:</string>
+          <string>:reversed_hand_with_middle_finger_extended:</string>
         </array>
       </dict>
       <key>left_receiver.png</key>
@@ -4864,6 +5028,7 @@
         <key>Equivalents</key>
         <array>
           <string>:left_receiver:</string>
+          <string>:left_hand_telephone_receiver:</string>
         </array>
       </dict>
       <key>minibus.png</key>
@@ -4900,6 +5065,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_je:</string>
+          <string>:je:</string>
         </array>
       </dict>
       <key>race_car.png</key>
@@ -4909,6 +5075,7 @@
         <key>Equivalents</key>
         <array>
           <string>:race_car:</string>
+          <string>:racing_car:</string>
         </array>
       </dict>
       <key>evergreen_tree.png</key>
@@ -4927,6 +5094,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sy:</string>
+          <string>:sy:</string>
         </array>
       </dict>
       <key>bed.png</key>
@@ -5044,6 +5212,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lc:</string>
+          <string>:lc:</string>
         </array>
       </dict>
       <key>u6709.png</key>
@@ -5125,6 +5294,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_et:</string>
+          <string>:et:</string>
         </array>
       </dict>
       <key>ram.png</key>
@@ -5143,6 +5313,7 @@
         <key>Equivalents</key>
         <array>
           <string>:writing_hand:</string>
+          <string>:left_writing_hand:</string>
         </array>
       </dict>
       <key>flag_zw.png</key>
@@ -5152,6 +5323,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_zw:</string>
+          <string>:zw:</string>
         </array>
       </dict>
       <key>chart_with_upwards_trend.png</key>
@@ -5188,6 +5360,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mu:</string>
+          <string>:mu:</string>
         </array>
       </dict>
       <key>information_desk_person.png</key>
@@ -5206,6 +5379,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sr:</string>
+          <string>:sr:</string>
         </array>
       </dict>
       <key>rice_scene.png</key>
@@ -5224,6 +5398,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_fk:</string>
+          <string>:fk:</string>
         </array>
       </dict>
       <key>mailbox_with_mail.png</key>
@@ -5260,6 +5435,7 @@
         <key>Equivalents</key>
         <array>
           <string>:pencil3:</string>
+          <string>:lower_left_pencil:</string>
         </array>
       </dict>
       <key>microphone.png</key>
@@ -5332,6 +5508,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_az:</string>
+          <string>:az:</string>
         </array>
       </dict>
       <key>thermometer.png</key>
@@ -5350,6 +5527,7 @@
         <key>Equivalents</key>
         <array>
           <string>:thumbs_down_reverse:</string>
+          <string>:reversed_thumbs_down_sign:</string>
         </array>
       </dict>
       <key>globe_with_meridians.png</key>
@@ -5377,6 +5555,7 @@
         <key>Equivalents</key>
         <array>
           <string>:paintbrush:</string>
+          <string>:lower_left_paintbrush:</string>
         </array>
       </dict>
       <key>crossbones.png</key>
@@ -5386,6 +5565,7 @@
         <key>Equivalents</key>
         <array>
           <string>:crossbones:</string>
+          <string>:black_skull_and_crossbones:</string>
         </array>
       </dict>
       <key>cl.png</key>
@@ -5404,6 +5584,7 @@
         <key>Equivalents</key>
         <array>
           <string>:computer_old:</string>
+          <string>:old_personal_computer:</string>
         </array>
       </dict>
       <key>crystal_ball.png</key>
@@ -5440,6 +5621,7 @@
         <key>Equivalents</key>
         <array>
           <string>:park:</string>
+          <string>:national_park:</string>
         </array>
       </dict>
       <key>flag_iq.png</key>
@@ -5449,6 +5631,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_iq:</string>
+          <string>:iq:</string>
         </array>
       </dict>
       <key>chart.png</key>
@@ -5467,6 +5650,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_is:</string>
+          <string>:is:</string>
         </array>
       </dict>
       <key>credit_card.png</key>
@@ -5494,6 +5678,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_in:</string>
+          <string>:in:</string>
         </array>
       </dict>
       <key>eight.png</key>
@@ -5521,6 +5706,7 @@
         <key>Equivalents</key>
         <array>
           <string>:anger_left:</string>
+          <string>:left_anger_bubble:</string>
         </array>
       </dict>
       <key>family_mmg.png</key>
@@ -5539,6 +5725,7 @@
         <key>Equivalents</key>
         <array>
           <string>:medal:</string>
+          <string>:sports_medal:</string>
         </array>
       </dict>
       <key>pages.png</key>
@@ -5566,6 +5753,7 @@
         <key>Equivalents</key>
         <array>
           <string>:stereo:</string>
+          <string>:portable_stereo:</string>
         </array>
       </dict>
       <key>flag_fm.png</key>
@@ -5575,6 +5763,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_fm:</string>
+          <string>:fm:</string>
         </array>
       </dict>
       <key>ship.png</key>
@@ -5719,6 +5908,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ua:</string>
+          <string>:ua:</string>
         </array>
       </dict>
       <key>snowman.png</key>
@@ -5764,6 +5954,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ke:</string>
+          <string>:ke:</string>
         </array>
       </dict>
       <key>flag_ug.png</key>
@@ -5773,6 +5964,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ug:</string>
+          <string>:ug:</string>
         </array>
       </dict>
       <key>minidisc.png</key>
@@ -5791,6 +5983,7 @@
         <key>Equivalents</key>
         <array>
           <string>:right_speaker_three:</string>
+          <string>:right_speaker_with_three_sound_waves:</string>
         </array>
       </dict>
       <key>horse_racing.png</key>
@@ -5809,6 +6002,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kn:</string>
+          <string>:kn:</string>
         </array>
       </dict>
       <key>flag_us.png</key>
@@ -5818,6 +6012,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_us:</string>
+          <string>:us:</string>
         </array>
       </dict>
       <key>radio.png</key>
@@ -5845,6 +6040,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_uy:</string>
+          <string>:uy:</string>
         </array>
       </dict>
       <key>chicken.png</key>
@@ -5863,6 +6059,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_uz:</string>
+          <string>:uz:</string>
         </array>
       </dict>
       <key>flag_kh.png</key>
@@ -5872,6 +6069,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kh:</string>
+          <string>:kh:</string>
         </array>
       </dict>
       <key>copyright.png</key>
@@ -5899,6 +6097,7 @@
         <key>Equivalents</key>
         <array>
           <string>:city_sunset:</string>
+          <string>:city_sunrise:</string>
         </array>
       </dict>
       <key>loudspeaker.png</key>
@@ -5998,6 +6197,7 @@
         <key>Equivalents</key>
         <array>
           <string>:mood_bubble_lightning:</string>
+          <string>:lightning_mood_bubble:</string>
         </array>
       </dict>
       <key>info.png</key>
@@ -6007,6 +6207,7 @@
         <key>Equivalents</key>
         <array>
           <string>:info:</string>
+          <string>:circled_information_source:</string>
         </array>
       </dict>
       <key>racehorse.png</key>
@@ -6169,6 +6370,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gw:</string>
+          <string>:gw:</string>
         </array>
       </dict>
       <key>flag_gu.png</key>
@@ -6178,6 +6380,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gu:</string>
+          <string>:gu:</string>
         </array>
       </dict>
       <key>flag_gt.png</key>
@@ -6187,6 +6390,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gt:</string>
+          <string>:gt:</string>
         </array>
       </dict>
       <key>hand_splayed.png</key>
@@ -6196,6 +6400,7 @@
         <key>Equivalents</key>
         <array>
           <string>:hand_splayed:</string>
+          <string>:raised_hand_with_fingers_splayed:</string>
         </array>
       </dict>
       <key>negative_squared_cross_mark.png</key>
@@ -6214,6 +6419,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gq:</string>
+          <string>:gq:</string>
         </array>
       </dict>
       <key>flag_gd.png</key>
@@ -6223,6 +6429,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gd:</string>
+          <string>:gd:</string>
         </array>
       </dict>
       <key>cry.png</key>
@@ -6250,6 +6457,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gy:</string>
+          <string>:gy:</string>
         </array>
       </dict>
       <key>worried.png</key>
@@ -6295,6 +6503,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ga:</string>
+          <string>:ga:</string>
         </array>
       </dict>
       <key>x.png</key>
@@ -6322,6 +6531,7 @@
         <key>Equivalents</key>
         <array>
           <string>:speech_three:</string>
+          <string>:three_speech_bubbles:</string>
         </array>
       </dict>
       <key>japanese_ogre.png</key>
@@ -6349,6 +6559,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gi:</string>
+          <string>:gi:</string>
         </array>
       </dict>
       <key>flag_gh.png</key>
@@ -6358,6 +6569,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gh:</string>
+          <string>:gh:</string>
         </array>
       </dict>
       <key>oncoming_taxi.png</key>
@@ -6385,6 +6597,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lt:</string>
+          <string>:lt:</string>
         </array>
       </dict>
       <key>arrow_up_small.png</key>
@@ -6412,6 +6625,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ge:</string>
+          <string>:ge:</string>
         </array>
       </dict>
       <key>station.png</key>
@@ -6439,6 +6653,7 @@
         <key>Equivalents</key>
         <array>
           <string>:speech_left:</string>
+          <string>:left_speech_bubble:</string>
         </array>
       </dict>
       <key>convenience_store.png</key>
@@ -6466,6 +6681,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cloud_rain:</string>
+          <string>:cloud_with_rain:</string>
         </array>
       </dict>
       <key>computer.png</key>
@@ -6493,6 +6709,7 @@
         <key>Equivalents</key>
         <array>
           <string>:thought_left:</string>
+          <string>:left_thought_bubble:</string>
         </array>
       </dict>
       <key>do_not_litter.png</key>
@@ -6538,6 +6755,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lk:</string>
+          <string>:lk:</string>
         </array>
       </dict>
       <key>hourglass.png</key>
@@ -6628,6 +6846,7 @@
         <key>Equivalents</key>
         <array>
           <string>:envelope_stamped_pen:</string>
+          <string>:pen_over_stamped_envelope:</string>
         </array>
       </dict>
       <key>non-potable_water.png</key>
@@ -6673,6 +6892,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_nu:</string>
+          <string>:nu:</string>
         </array>
       </dict>
       <key>card_index.png</key>
@@ -6691,6 +6911,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ac:</string>
+          <string>:ac:</string>
         </array>
       </dict>
       <key>frame_tiles.png</key>
@@ -6700,6 +6921,7 @@
         <key>Equivalents</key>
         <array>
           <string>:frame_tiles:</string>
+          <string>:frame_with_tiles:</string>
         </array>
       </dict>
       <key>older_man.png</key>
@@ -6727,6 +6949,7 @@
         <key>Equivalents</key>
         <array>
           <string>:microphone2:</string>
+          <string>:studio_microphone:</string>
         </array>
       </dict>
       <key>raising_hand.png</key>
@@ -6817,6 +7040,7 @@
         <key>Equivalents</key>
         <array>
           <string>:slight_frown:</string>
+          <string>:slightly_frowning_face:</string>
         </array>
       </dict>
       <key>weary.png</key>
@@ -6880,6 +7104,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cartridge:</string>
+          <string>:tape_cartridge:</string>
         </array>
       </dict>
       <key>flag_lv.png</key>
@@ -6889,6 +7114,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lv:</string>
+          <string>:lv:</string>
         </array>
       </dict>
       <key>no_pedestrians.png</key>
@@ -6934,6 +7160,7 @@
         <key>Equivalents</key>
         <array>
           <string>:pen_fountain:</string>
+          <string>:lower_left_fountain_pen:</string>
         </array>
       </dict>
       <key>eggplant.png</key>
@@ -6997,6 +7224,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_km:</string>
+          <string>:km:</string>
         </array>
       </dict>
       <key>cancer.png</key>
@@ -7033,6 +7261,7 @@
         <key>Equivalents</key>
         <array>
           <string>:triangle_round:</string>
+          <string>:triangle_with_rounded_corners:</string>
         </array>
       </dict>
       <key>wastebasket.png</key>
@@ -7177,6 +7406,7 @@
         <key>Equivalents</key>
         <array>
           <string>:airplane_northeast:</string>
+          <string>:northeast_pointing_airplane:</string>
         </array>
       </dict>
       <key>beer.png</key>
@@ -7249,6 +7479,7 @@
         <key>Equivalents</key>
         <array>
           <string>:fork_knife_plate:</string>
+          <string>:fork_and_knife_with_plate:</string>
         </array>
       </dict>
       <key>flag_black.png</key>
@@ -7258,6 +7489,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_black:</string>
+          <string>:waving_black_flag:</string>
         </array>
       </dict>
       <key>flag_lu.png</key>
@@ -7267,6 +7499,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lu:</string>
+          <string>:lu:</string>
         </array>
       </dict>
       <key>performing_arts.png</key>
@@ -7294,6 +7527,7 @@
         <key>Equivalents</key>
         <array>
           <string>:fire:</string>
+          <string>:flame:</string>
         </array>
       </dict>
       <key>two_hearts.png</key>
@@ -7330,6 +7564,7 @@
         <key>Equivalents</key>
         <array>
           <string>:vulcan:</string>
+          <string>:raised_hand_with_part_between_middle_and_ring_fingers:</string>
         </array>
       </dict>
       <key>flag_gn.png</key>
@@ -7339,6 +7574,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_gn:</string>
+          <string>:gn:</string>
         </array>
       </dict>
       <key>aries.png</key>
@@ -7420,6 +7656,7 @@
         <key>Equivalents</key>
         <array>
           <string>:card_box:</string>
+          <string>:card_file_box:</string>
         </array>
       </dict>
       <key>wind_chime.png</key>
@@ -7465,6 +7702,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cr:</string>
+          <string>:cr:</string>
         </array>
       </dict>
       <key>envelope_with_arrow.png</key>
@@ -7483,6 +7721,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cl:</string>
+          <string>:chile:</string>
         </array>
       </dict>
       <key>flag_cv.png</key>
@@ -7492,6 +7731,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cv:</string>
+          <string>:cv:</string>
         </array>
       </dict>
       <key>flag_cu.png</key>
@@ -7501,6 +7741,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cu:</string>
+          <string>:cu:</string>
         </array>
       </dict>
       <key>flag_fi.png</key>
@@ -7510,6 +7751,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_fi:</string>
+          <string>:fi:</string>
         </array>
       </dict>
       <key>grinning.png</key>
@@ -7555,6 +7797,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_co:</string>
+          <string>:co:</string>
         </array>
       </dict>
       <key>lips2.png</key>
@@ -7609,6 +7852,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ca:</string>
+          <string>:ca:</string>
         </array>
       </dict>
       <key>bathtub.png</key>
@@ -7627,6 +7871,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cg:</string>
+          <string>:cg:</string>
         </array>
       </dict>
       <key>grey_question.png</key>
@@ -7654,6 +7899,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_cd:</string>
+          <string>:congo:</string>
         </array>
       </dict>
       <key>potable_water.png</key>
@@ -7699,6 +7945,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_si:</string>
+          <string>:si:</string>
         </array>
       </dict>
       <key>flag_hr.png</key>
@@ -7708,6 +7955,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_hr:</string>
+          <string>:hr:</string>
         </array>
       </dict>
       <key>roller_coaster.png</key>
@@ -7726,6 +7974,7 @@
         <key>Equivalents</key>
         <array>
           <string>:calculator:</string>
+          <string>:pocket calculator:</string>
         </array>
       </dict>
       <key>sushi.png</key>
@@ -7798,6 +8047,7 @@
         <key>Equivalents</key>
         <array>
           <string>:floppy_white:</string>
+          <string>:white_hard_shell_floppy_disk:</string>
         </array>
       </dict>
       <key>flag_vu.png</key>
@@ -7807,6 +8057,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_vu:</string>
+          <string>:vu:</string>
         </array>
       </dict>
       <key>arrow_forward.png</key>
@@ -7870,6 +8121,7 @@
         <key>Equivalents</key>
         <array>
           <string>:airplane_small:</string>
+          <string>:small_airplane:</string>
         </array>
       </dict>
       <key>shopping_bags.png</key>
@@ -7888,6 +8140,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sh:</string>
+          <string>:sh:</string>
         </array>
       </dict>
       <key>shirt.png</key>
@@ -7933,6 +8186,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_vc:</string>
+          <string>:vc:</string>
         </array>
       </dict>
       <key>heart_decoration.png</key>
@@ -7996,6 +8250,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_hu:</string>
+          <string>:hu:</string>
         </array>
       </dict>
       <key>classical_building.png</key>
@@ -8059,6 +8314,7 @@
         <key>Equivalents</key>
         <array>
           <string>:oil:</string>
+          <string>:oil_drum:</string>
         </array>
       </dict>
       <key>arrow_heading_up.png</key>
@@ -8077,6 +8333,7 @@
         <key>Equivalents</key>
         <array>
           <string>:calendar_spiral:</string>
+          <string>:spiral_calendar_pad:</string>
         </array>
       </dict>
       <key>snail.png</key>
@@ -8122,6 +8379,7 @@
         <key>Equivalents</key>
         <array>
           <string>:paperclips:</string>
+          <string>:linked_paperclips:</string>
         </array>
       </dict>
       <key>diamond_shape_with_a_dot_inside.png</key>
@@ -8167,6 +8425,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_eh:</string>
+          <string>:eh:</string>
         </array>
       </dict>
       <key>cityscape.png</key>
@@ -8230,6 +8489,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_to:</string>
+          <string>:to:</string>
         </array>
       </dict>
       <key>flag_er.png</key>
@@ -8239,6 +8499,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_er:</string>
+          <string>:er:</string>
         </array>
       </dict>
       <key>smile_cat.png</key>
@@ -8302,6 +8563,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bg:</string>
+          <string>:bg:</string>
         </array>
       </dict>
       <key>hearts.png</key>
@@ -8428,6 +8690,7 @@
         <key>Equivalents</key>
         <array>
           <string>:finger_pointing_up:</string>
+          <string>:sideways_white_up_pointing_index:</string>
         </array>
       </dict>
       <key>green_apple.png</key>
@@ -8446,6 +8709,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flip_phone:</string>
+          <string>:clamshell_mobile_phone:</string>
         </array>
       </dict>
       <key>heart_tip.png</key>
@@ -8455,6 +8719,7 @@
         <key>Equivalents</key>
         <array>
           <string>:heart_tip:</string>
+          <string>:heart_with_tip_on_the_left:</string>
         </array>
       </dict>
       <key>tools.png</key>
@@ -8464,6 +8729,7 @@
         <key>Equivalents</key>
         <array>
           <string>:tools:</string>
+          <string>:hammer_and_wrench:</string>
         </array>
       </dict>
       <key>dromedary_camel.png</key>
@@ -8482,6 +8748,7 @@
         <key>Equivalents</key>
         <array>
           <string>:couch:</string>
+          <string>:couch_and_lamp:</string>
         </array>
       </dict>
       <key>flag_sl.png</key>
@@ -8491,6 +8758,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sl:</string>
+          <string>:sl:</string>
         </array>
       </dict>
       <key>clock130.png</key>
@@ -8599,6 +8867,7 @@
         <key>Equivalents</key>
         <array>
           <string>:desktop:</string>
+          <string>:desktop_computer:</string>
         </array>
       </dict>
       <key>wedding.png</key>
@@ -8653,6 +8922,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kg:</string>
+          <string>:kg:</string>
         </array>
       </dict>
       <key>right_speaker.png</key>
@@ -8671,6 +8941,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_fo:</string>
+          <string>:fo:</string>
         </array>
       </dict>
       <key>ski.png</key>
@@ -8725,6 +8996,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_om:</string>
+          <string>:om:</string>
         </array>
       </dict>
       <key>orange_book.png</key>
@@ -8770,6 +9042,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_py:</string>
+          <string>:py:</string>
         </array>
       </dict>
       <key>dart.png</key>
@@ -8923,6 +9196,7 @@
         <key>Equivalents</key>
         <array>
           <string>:clockwise_arrows:</string>
+          <string>:clockwise_right_and_left_semicircle_arrows:</string>
         </array>
       </dict>
       <key>gift.png</key>
@@ -8950,6 +9224,7 @@
         <key>Equivalents</key>
         <array>
           <string>:frame_x:</string>
+          <string>:frame_with_an_x:</string>
         </array>
       </dict>
       <key>cool.png</key>
@@ -9022,6 +9297,7 @@
         <key>Equivalents</key>
         <array>
           <string>:laughing:</string>
+          <string>:satisfied:</string>
         </array>
       </dict>
       <key>trolleybus.png</key>
@@ -9040,6 +9316,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_qa:</string>
+          <string>:qa:</string>
         </array>
       </dict>
       <key>bamboo.png</key>
@@ -9058,6 +9335,7 @@
         <key>Equivalents</key>
         <array>
           <string>:airplane_small_up:</string>
+          <string>:up_pointing_small_airplane:</string>
         </array>
       </dict>
       <key>page.png</key>
@@ -9112,6 +9390,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ps:</string>
+          <string>:ps:</string>
         </array>
       </dict>
       <key>couple_ww.png</key>
@@ -9121,6 +9400,7 @@
         <key>Equivalents</key>
         <array>
           <string>:couple_ww:</string>
+          <string>:couple_with_heart_ww:</string>
         </array>
       </dict>
       <key>waning_gibbous_moon.png</key>
@@ -9157,6 +9437,7 @@
         <key>Equivalents</key>
         <array>
           <string>:finger_pointing_down:</string>
+          <string>:white_down_pointing_left_hand_index:</string>
         </array>
       </dict>
       <key>sparkling_heart.png</key>
@@ -9193,6 +9474,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mk:</string>
+          <string>:mk:</string>
         </array>
       </dict>
       <key>person_with_pouting_face.png</key>
@@ -9211,6 +9493,7 @@
         <key>Equivalents</key>
         <array>
           <string>:bellhop:</string>
+          <string>:bellhop_bell:</string>
         </array>
       </dict>
       <key>flag_pw.png</key>
@@ -9220,6 +9503,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pw:</string>
+          <string>:pw:</string>
         </array>
       </dict>
       <key>flag_ht.png</key>
@@ -9229,6 +9513,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ht:</string>
+          <string>:ht:</string>
         </array>
       </dict>
       <key>flag_ye.png</key>
@@ -9238,6 +9523,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ye:</string>
+          <string>:ye:</string>
         </array>
       </dict>
       <key>flag_il.png</key>
@@ -9247,6 +9533,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_il:</string>
+          <string>:il:</string>
         </array>
       </dict>
       <key>bento.png</key>
@@ -9265,6 +9552,7 @@
         <key>Equivalents</key>
         <array>
           <string>:newspaper2:</string>
+          <string>:rolled_up_newspaper:</string>
         </array>
       </dict>
       <key>two.png</key>
@@ -9292,6 +9580,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_jm:</string>
+          <string>:jm:</string>
         </array>
       </dict>
       <key>anguished.png</key>
@@ -9337,6 +9626,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_it:</string>
+          <string>:it:</string>
         </array>
       </dict>
       <key>large_orange_diamond.png</key>
@@ -9391,6 +9681,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tn:</string>
+          <string>:tn:</string>
         </array>
       </dict>
       <key>honey_pot.png</key>
@@ -9427,6 +9718,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tj:</string>
+          <string>:tj:</string>
         </array>
       </dict>
       <key>zzz.png</key>
@@ -9445,6 +9737,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_th:</string>
+          <string>:th:</string>
         </array>
       </dict>
       <key>flag_za.png</key>
@@ -9454,6 +9747,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_za:</string>
+          <string>:za:</string>
         </array>
       </dict>
       <key>notepad.png</key>
@@ -9463,6 +9757,7 @@
         <key>Equivalents</key>
         <array>
           <string>:notepad:</string>
+          <string>:note_pad:</string>
         </array>
       </dict>
       <key>corn.png</key>
@@ -9481,6 +9776,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_rw:</string>
+          <string>:rw:</string>
         </array>
       </dict>
       <key>surfer.png</key>
@@ -9517,6 +9813,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_zm:</string>
+          <string>:zm:</string>
         </array>
       </dict>
       <key>prohibited.png</key>
@@ -9526,6 +9823,7 @@
         <key>Equivalents</key>
         <array>
           <string>:prohibited:</string>
+          <string>:prohibited_sign:</string>
         </array>
       </dict>
       <key>stew.png</key>
@@ -9562,6 +9860,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tv:</string>
+          <string>:tuvalu:</string>
         </array>
       </dict>
       <key>flag_tw.png</key>
@@ -9571,6 +9870,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tw:</string>
+          <string>:tw:</string>
         </array>
       </dict>
       <key>kissing_heart.png</key>
@@ -9589,6 +9889,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ir:</string>
+          <string>:ir:</string>
         </array>
       </dict>
       <key>tropical_fish.png</key>
@@ -9625,6 +9926,7 @@
         <key>Equivalents</key>
         <array>
           <string>:ballot_box_x:</string>
+          <string>:ballot_box_with_script_x:</string>
         </array>
       </dict>
       <key>trophy.png</key>
@@ -9670,6 +9972,7 @@
         <key>Equivalents</key>
         <array>
           <string>:island:</string>
+          <string>:desert_island:</string>
         </array>
       </dict>
       <key>arrow_backward.png</key>
@@ -9769,6 +10072,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tl:</string>
+          <string>:tl:</string>
         </array>
       </dict>
       <key>cross_white.png</key>
@@ -9778,6 +10082,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cross_white:</string>
+          <string>:white_latin_cross:</string>
         </array>
       </dict>
       <key>tongue.png</key>
@@ -9832,6 +10137,7 @@
         <key>Equivalents</key>
         <array>
           <string>:hand_victory:</string>
+          <string>:reversed_victory_hand:</string>
         </array>
       </dict>
       <key>lollipop.png</key>
@@ -9859,6 +10165,7 @@
         <key>Equivalents</key>
         <array>
           <string>:dagger:</string>
+          <string>:dagger_knife:</string>
         </array>
       </dict>
       <key>yen.png</key>
@@ -9895,6 +10202,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_sd:</string>
+          <string>:sd:</string>
         </array>
       </dict>
       <key>flag_aw.png</key>
@@ -9904,6 +10212,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_aw:</string>
+          <string>:aw:</string>
         </array>
       </dict>
       <key>bath.png</key>
@@ -9922,6 +10231,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ie:</string>
+          <string>:ie:</string>
         </array>
       </dict>
       <key>dango.png</key>
@@ -9940,6 +10250,7 @@
         <key>Equivalents</key>
         <array>
           <string>:right_speaker_one:</string>
+          <string>:right_speaker_with_one_sound_wave:</string>
         </array>
       </dict>
       <key>flag_tm.png</key>
@@ -9949,6 +10260,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_tm:</string>
+          <string>:turkmenistan:</string>
         </array>
       </dict>
       <key>flag_id.png</key>
@@ -9958,6 +10270,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_id:</string>
+          <string>:indonesia:</string>
         </array>
       </dict>
       <key>syringe.png</key>
@@ -10021,6 +10334,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_wf:</string>
+          <string>:wf:</string>
         </array>
       </dict>
       <key>rowboat.png</key>
@@ -10039,6 +10353,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bz:</string>
+          <string>:bz:</string>
         </array>
       </dict>
       <key>compression.png</key>
@@ -10066,6 +10381,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_do:</string>
+          <string>:do:</string>
         </array>
       </dict>
       <key>pager.png</key>
@@ -10120,6 +10436,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_mn:</string>
+          <string>:mn:</string>
         </array>
       </dict>
       <key>arrows_clockwise.png</key>
@@ -10138,6 +10455,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bh:</string>
+          <string>:bh:</string>
         </array>
       </dict>
       <key>flag_bi.png</key>
@@ -10147,6 +10465,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bi:</string>
+          <string>:bi:</string>
         </array>
       </dict>
       <key>flag_bj.png</key>
@@ -10156,6 +10475,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bj:</string>
+          <string>:bj:</string>
         </array>
       </dict>
       <key>mood_bubble.png</key>
@@ -10183,6 +10503,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bo:</string>
+          <string>:bo:</string>
         </array>
       </dict>
       <key>flag_ba.png</key>
@@ -10192,6 +10513,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ba:</string>
+          <string>:ba:</string>
         </array>
       </dict>
       <key>flag_bb.png</key>
@@ -10201,6 +10523,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bb:</string>
+          <string>:bb:</string>
         </array>
       </dict>
       <key>capital_abcd.png</key>
@@ -10219,6 +10542,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bd:</string>
+          <string>:bd:</string>
         </array>
       </dict>
       <key>flag_be.png</key>
@@ -10228,6 +10552,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_be:</string>
+          <string>:be:</string>
         </array>
       </dict>
       <key>flag_bf.png</key>
@@ -10237,6 +10562,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bf:</string>
+          <string>:bf:</string>
         </array>
       </dict>
       <key>envelope_back.png</key>
@@ -10246,6 +10572,7 @@
         <key>Equivalents</key>
         <array>
           <string>:envelope_back:</string>
+          <string>:back_of_envelope:</string>
         </array>
       </dict>
       <key>flag_kr.png</key>
@@ -10255,6 +10582,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kr:</string>
+          <string>:kr:</string>
         </array>
       </dict>
       <key>flag_lb.png</key>
@@ -10264,6 +10592,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lb:</string>
+          <string>:lb:</string>
         </array>
       </dict>
       <key>train_diesel.png</key>
@@ -10273,6 +10602,7 @@
         <key>Equivalents</key>
         <array>
           <string>:train_diesel:</string>
+          <string>:diesel_locomotive:</string>
         </array>
       </dict>
       <key>flag_kw.png</key>
@@ -10282,6 +10612,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_kw:</string>
+          <string>:kw:</string>
         </array>
       </dict>
       <key>bus.png</key>
@@ -10390,6 +10721,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ki:</string>
+          <string>:ki:</string>
         </array>
       </dict>
       <key>ear.png</key>
@@ -10426,6 +10758,7 @@
         <key>Equivalents</key>
         <array>
           <string>:pen_ballpoint:</string>
+          <string>:lower_left_ballpoint_pen:</string>
         </array>
       </dict>
       <key>penguin.png</key>
@@ -10444,6 +10777,7 @@
         <key>Equivalents</key>
         <array>
           <string>:speech_two:</string>
+          <string>:two_speech_bubbles:</string>
         </array>
       </dict>
       <key>electric_plug.png</key>
@@ -10471,6 +10805,7 @@
         <key>Equivalents</key>
         <array>
           <string>:skull:</string>
+          <string>:skeleton:</string>
         </array>
       </dict>
       <key>rage.png</key>
@@ -10489,6 +10824,7 @@
         <key>Equivalents</key>
         <array>
           <string>:kiss_mm:</string>
+          <string>:couplekiss_mm:</string>
         </array>
       </dict>
       <key>whale2.png</key>
@@ -10570,6 +10906,7 @@
         <key>Equivalents</key>
         <array>
           <string>:light_check_mark:</string>
+          <string>:light_mark:</string>
         </array>
       </dict>
       <key>star2.png</key>
@@ -10597,6 +10934,7 @@
         <key>Equivalents</key>
         <array>
           <string>:anger_right:</string>
+          <string>:right_anger_bubble:</string>
         </array>
       </dict>
       <key>arrow_double_up.png</key>
@@ -10714,6 +11052,7 @@
         <key>Equivalents</key>
         <array>
           <string>:thought_right:</string>
+          <string>:right_thought_bubble:</string>
         </array>
       </dict>
       <key>gemini.png</key>
@@ -10732,6 +11071,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ws:</string>
+          <string>:ws:</string>
         </array>
       </dict>
       <key>candle.png</key>
@@ -10777,6 +11117,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_la:</string>
+          <string>:la:</string>
         </array>
       </dict>
       <key>8ball.png</key>
@@ -10858,6 +11199,7 @@
         <key>Equivalents</key>
         <array>
           <string>:piracy:</string>
+          <string>:no_piracy:</string>
         </array>
       </dict>
       <key>speech_right.png</key>
@@ -10867,6 +11209,7 @@
         <key>Equivalents</key>
         <array>
           <string>:speech_right:</string>
+          <string>:right_speech_bubble:</string>
         </array>
       </dict>
       <key>boot.png</key>
@@ -10894,6 +11237,7 @@
         <key>Equivalents</key>
         <array>
           <string>:couple_mm:</string>
+          <string>:couple_with_heart_mm:</string>
         </array>
       </dict>
       <key>steam_locomotive.png</key>
@@ -10939,6 +11283,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pe:</string>
+          <string>:pe:</string>
         </array>
       </dict>
       <key>flag_lr.png</key>
@@ -10948,6 +11293,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_lr:</string>
+          <string>:lr:</string>
         </array>
       </dict>
       <key>clock1030.png</key>
@@ -10966,6 +11312,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pr:</string>
+          <string>:pr:</string>
         </array>
       </dict>
       <key>flag_bs.png</key>
@@ -10975,6 +11322,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_bs:</string>
+          <string>:bs:</string>
         </array>
       </dict>
       <key>poop.png</key>
@@ -10984,6 +11332,9 @@
         <key>Equivalents</key>
         <array>
           <string>:poop:</string>
+          <string>:shit:</string>
+          <string>:hankey:</string>
+          <string>:poo:</string>
         </array>
       </dict>
       <key>bust_in_silhouette.png</key>
@@ -11020,6 +11371,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pt:</string>
+          <string>:pt:</string>
         </array>
       </dict>
       <key>desktop_window.png</key>
@@ -11110,6 +11462,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pf:</string>
+          <string>:pf:</string>
         </array>
       </dict>
       <key>flag_pg.png</key>
@@ -11119,6 +11472,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pg:</string>
+          <string>:pg:</string>
         </array>
       </dict>
       <key>bike.png</key>
@@ -11146,6 +11500,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_dz:</string>
+          <string>:dz:</string>
         </array>
       </dict>
       <key>flushed.png</key>
@@ -11182,6 +11537,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pl:</string>
+          <string>:pl:</string>
         </array>
       </dict>
       <key>network.png</key>
@@ -11191,6 +11547,7 @@
         <key>Equivalents</key>
         <array>
           <string>:network:</string>
+          <string>:three_networked_computers:</string>
         </array>
       </dict>
       <key>ghost.png</key>
@@ -11218,6 +11575,7 @@
         <key>Equivalents</key>
         <array>
           <string>:airplane_up:</string>
+          <string>:up_pointing_airplane:</string>
         </array>
       </dict>
       <key>satellite_orbital.png</key>
@@ -11236,6 +11594,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ee:</string>
+          <string>:ee:</string>
         </array>
       </dict>
       <key>vibration_mode.png</key>
@@ -11254,6 +11613,7 @@
         <key>Equivalents</key>
         <array>
           <string>:cloud_lightning:</string>
+          <string>:cloud_with_lightning:</string>
         </array>
       </dict>
       <key>flag_td.png</key>
@@ -11263,6 +11623,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_td:</string>
+          <string>:td:</string>
         </array>
       </dict>
       <key>dvd.png</key>
@@ -11308,6 +11669,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_pk:</string>
+          <string>:pk:</string>
         </array>
       </dict>
       <key>flag_ly.png</key>
@@ -11317,6 +11679,7 @@
         <key>Equivalents</key>
         <array>
           <string>:flag_ly:</string>
+          <string>:ly:</string>
         </array>
       </dict>
       <key>hushed.png</key>

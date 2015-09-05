@@ -34,6 +34,8 @@ def AddElement(name, emoticon):
     ET.SubElement(emoji, 'key').text = 'Equivalents'
     sub = ET.SubElement(emoji, 'array')
     ET.SubElement(sub, 'string').text = emoticon['shortname']
+    for alias in emoticon['aliases']:
+        ET.SubElement(sub, 'string').text = alias
 
 for key in emo_json:
     img_path = '{0}/{1}.png'.format(root, key)
